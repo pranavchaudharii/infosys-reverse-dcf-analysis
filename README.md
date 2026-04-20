@@ -30,8 +30,7 @@ The analysis suggests that Infosys is pricing in optimistic growth expectations,
 - Financial Modeling Techniques
 
 ## 👤 Author
-Pranav Chaudhari  
-BBA Finance Student
+Prepared by Pranav Chaudhari
 
 ## 🚀 Future Improvements
 - Sensitivity Analysis (WACC vs Growth)
